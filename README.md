@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Preview
+![preview](https://user-images.githubusercontent.com/60177750/219385044-1fd27963-25e4-400d-803d-2753a5971335.jpg)
+
+## How it works
+https://www.loom.com/share/854b7f99c5ea4567ace2c11e70e0cd3a
+
 ## Used Technologies & Libraries
 React 18, Tailwind CSS, Redux, Redux-Thunk, Lodash, classnames, React Hook/Media Query, axios, axios-mock-adapter
 
